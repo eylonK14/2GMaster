@@ -33,8 +33,8 @@ Built for lawful research, educational use, and SDR experimentation.
 
 ## Installation
 ```bash
-git clone https://github.com/yourname/imsi-tmsi-scanner.git
-cd imsi-tmsi-scanner
+git clone https://github.com/Eylonk14/2GMaster.git
+cd 2GMaster
 pip install -r requirements.txt
 ```
 
@@ -49,7 +49,7 @@ tshark -v
 **⚠ Root access is required** to use SDR hardware & capture packets.
 
 ```bash
-sudo python3 imsi.py
+sudo python3 2gmaster.py
 ```
 
 ---
